@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "env": "^0.0.2",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-unicorn": "^45.0.2",
     "react": "^18.2.0",
