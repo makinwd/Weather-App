@@ -1,3 +1,3 @@
 Weather App
 
-under construction
+(в процессе написания)
